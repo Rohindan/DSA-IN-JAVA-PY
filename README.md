@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Rohindan/DSA-IN-JAVA-/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Rohindan/DSA-IN-JAVA-/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Rohindan/DSA-IN-JAVA-/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/Rohindan/DSA-IN-JAVA-/tree/master/0189-rotate-array) |
 | [1920-build-array-from-permutation](https://github.com/Rohindan/DSA-IN-JAVA-/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Rohindan/DSA-IN-JAVA-/tree/master/1929-concatenation-of-array) |
 ## Two Pointers
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rohindan/DSA-IN-JAVA-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Rohindan/DSA-IN-JAVA-/tree/master/0027-remove-element) |
+| [0189-rotate-array](https://github.com/Rohindan/DSA-IN-JAVA-/tree/master/0189-rotate-array) |
 ## Simulation
 |  |
 | ------- |
@@ -35,4 +37,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Rohindan/DSA-IN-JAVA-/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/Rohindan/DSA-IN-JAVA-/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
