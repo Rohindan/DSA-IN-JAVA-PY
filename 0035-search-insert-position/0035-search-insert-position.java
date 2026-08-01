@@ -21,7 +21,7 @@ class Solution {
             
             
         }
-        return right + 1;
+        return left;
         
     }
 }
