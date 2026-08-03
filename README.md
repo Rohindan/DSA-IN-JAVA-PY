@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Rohindan/DSA-IN-JAVA-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Rohindan/DSA-IN-JAVA-/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Rohindan/DSA-IN-JAVA-/tree/master/0066-plus-one) |
+| [0136-single-number](https://github.com/Rohindan/DSA-IN-JAVA-/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Rohindan/DSA-IN-JAVA-/tree/master/0189-rotate-array) |
 | [0704-binary-search](https://github.com/Rohindan/DSA-IN-JAVA-/tree/master/0704-binary-search) |
 | [1920-build-array-from-permutation](https://github.com/Rohindan/DSA-IN-JAVA-/tree/master/1920-build-array-from-permutation) |
@@ -44,4 +45,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Rohindan/DSA-IN-JAVA-/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Rohindan/DSA-IN-JAVA-/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Rohindan/DSA-IN-JAVA-/tree/master/0189-rotate-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Rohindan/DSA-IN-JAVA-/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
