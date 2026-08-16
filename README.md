@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Rohindan/DSA-IN-JAVA-/tree/master/0136-single-number) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Rohindan/DSA-IN-JAVA-/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/Rohindan/DSA-IN-JAVA-/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Rohindan/DSA-IN-JAVA-/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/Rohindan/DSA-IN-JAVA-/tree/master/0704-binary-search) |
 | [1920-build-array-from-permutation](https://github.com/Rohindan/DSA-IN-JAVA-/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Rohindan/DSA-IN-JAVA-/tree/master/1929-concatenation-of-array) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Rohindan/DSA-IN-JAVA-/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/Rohindan/DSA-IN-JAVA-/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Rohindan/DSA-IN-JAVA-/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Rohindan/DSA-IN-JAVA-/tree/master/0069-sqrtx) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Rohindan/DSA-IN-JAVA-/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0268-missing-number](https://github.com/Rohindan/DSA-IN-JAVA-/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/Rohindan/DSA-IN-JAVA-/tree/master/0704-binary-search) |
 ## Math
 |  |
@@ -47,8 +50,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Rohindan/DSA-IN-JAVA-/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Rohindan/DSA-IN-JAVA-/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Rohindan/DSA-IN-JAVA-/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Rohindan/DSA-IN-JAVA-/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Rohindan/DSA-IN-JAVA-/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/Rohindan/DSA-IN-JAVA-/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Rohindan/DSA-IN-JAVA-/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
