@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Rohindan/DSA-IN-JAVA-/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Rohindan/DSA-IN-JAVA-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Rohindan/DSA-IN-JAVA-/tree/master/0035-search-insert-position) |
+| [0054-spiral-matrix](https://github.com/Rohindan/DSA-IN-JAVA-/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Rohindan/DSA-IN-JAVA-/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/Rohindan/DSA-IN-JAVA-/tree/master/0136-single-number) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Rohindan/DSA-IN-JAVA-/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Rohindan/DSA-IN-JAVA-/tree/master/0054-spiral-matrix) |
 | [1920-build-array-from-permutation](https://github.com/Rohindan/DSA-IN-JAVA-/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Rohindan/DSA-IN-JAVA-/tree/master/1929-concatenation-of-array) |
 ## Hash Table
@@ -60,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Rohindan/DSA-IN-JAVA-/tree/master/0268-missing-number) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Rohindan/DSA-IN-JAVA-/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
