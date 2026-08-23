@@ -6,7 +6,7 @@ class Solution {
             char ch = s.charAt(i);
             if((Character.isLetterOrDigit(ch))){
 
-                ss.append(Character.toLowerCase(s.charAt(i)));
+                ss.append(Character.toLowerCase(ch));
             }
         }
 
