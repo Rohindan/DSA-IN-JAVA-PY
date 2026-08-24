@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Rohindan/DSA-IN-JAVA-/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/Rohindan/DSA-IN-JAVA-/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Rohindan/DSA-IN-JAVA-/tree/master/0189-rotate-array) |
+| [0647-palindromic-substrings](https://github.com/Rohindan/DSA-IN-JAVA-/tree/master/0647-palindromic-substrings) |
 ## Simulation
 |  |
 | ------- |
@@ -74,4 +75,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Rohindan/DSA-IN-JAVA-/tree/master/0125-valid-palindrome) |
+| [0647-palindromic-substrings](https://github.com/Rohindan/DSA-IN-JAVA-/tree/master/0647-palindromic-substrings) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0647-palindromic-substrings](https://github.com/Rohindan/DSA-IN-JAVA-/tree/master/0647-palindromic-substrings) |
 <!---LeetCode Topics End-->
