@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Rohindan/DSA-IN-JAVA-/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Rohindan/DSA-IN-JAVA-/tree/master/0242-valid-anagram) |
 | [0647-palindromic-substrings](https://github.com/Rohindan/DSA-IN-JAVA-/tree/master/0647-palindromic-substrings) |
+| [0709-to-lower-case](https://github.com/Rohindan/DSA-IN-JAVA-/tree/master/0709-to-lower-case) |
 ## Dynamic Programming
 |  |
 | ------- |
