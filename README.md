@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Rohindan/DSA-IN-JAVA-/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Rohindan/DSA-IN-JAVA-/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Rohindan/DSA-IN-JAVA-/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Rohindan/DSA-IN-JAVA-/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/Rohindan/DSA-IN-JAVA-/tree/master/0704-binary-search) |
 | [1920-build-array-from-permutation](https://github.com/Rohindan/DSA-IN-JAVA-/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Rohindan/DSA-IN-JAVA-/tree/master/1929-concatenation-of-array) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Rohindan/DSA-IN-JAVA-/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Rohindan/DSA-IN-JAVA-/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Rohindan/DSA-IN-JAVA-/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Rohindan/DSA-IN-JAVA-/tree/master/0349-intersection-of-two-arrays) |
 | [0647-palindromic-substrings](https://github.com/Rohindan/DSA-IN-JAVA-/tree/master/0647-palindromic-substrings) |
 ## Simulation
 |  |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Rohindan/DSA-IN-JAVA-/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/Rohindan/DSA-IN-JAVA-/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Rohindan/DSA-IN-JAVA-/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Rohindan/DSA-IN-JAVA-/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Rohindan/DSA-IN-JAVA-/tree/master/0387-first-unique-character-in-a-string) |
 ## Binary Search
 |  |
@@ -54,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Rohindan/DSA-IN-JAVA-/tree/master/0074-search-a-2d-matrix) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Rohindan/DSA-IN-JAVA-/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/Rohindan/DSA-IN-JAVA-/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Rohindan/DSA-IN-JAVA-/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/Rohindan/DSA-IN-JAVA-/tree/master/0704-binary-search) |
 ## Math
 |  |
@@ -72,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/Rohindan/DSA-IN-JAVA-/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Rohindan/DSA-IN-JAVA-/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Rohindan/DSA-IN-JAVA-/tree/master/0349-intersection-of-two-arrays) |
 ## Matrix
 |  |
 | ------- |
