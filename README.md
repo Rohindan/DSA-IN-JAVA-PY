@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Rohindan/DSA-IN-JAVA-/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/Rohindan/DSA-IN-JAVA-/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Rohindan/DSA-IN-JAVA-/tree/master/0268-missing-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/Rohindan/DSA-IN-JAVA-/tree/master/0387-first-unique-character-in-a-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Rohindan/DSA-IN-JAVA-/tree/master/0005-longest-palindromic-substring) |
 | [0125-valid-palindrome](https://github.com/Rohindan/DSA-IN-JAVA-/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Rohindan/DSA-IN-JAVA-/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/Rohindan/DSA-IN-JAVA-/tree/master/0387-first-unique-character-in-a-string) |
 | [0647-palindromic-substrings](https://github.com/Rohindan/DSA-IN-JAVA-/tree/master/0647-palindromic-substrings) |
 | [0709-to-lower-case](https://github.com/Rohindan/DSA-IN-JAVA-/tree/master/0709-to-lower-case) |
 ## Dynamic Programming
@@ -93,4 +95,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Rohindan/DSA-IN-JAVA-/tree/master/0005-longest-palindromic-substring) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Rohindan/DSA-IN-JAVA-/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Rohindan/DSA-IN-JAVA-/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
