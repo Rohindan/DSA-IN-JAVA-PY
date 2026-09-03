@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Rohindan/DSA-IN-JAVA-/tree/master/0704-binary-search) |
 | [1920-build-array-from-permutation](https://github.com/Rohindan/DSA-IN-JAVA-/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Rohindan/DSA-IN-JAVA-/tree/master/1929-concatenation-of-array) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Rohindan/DSA-IN-JAVA-/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Rohindan/DSA-IN-JAVA-/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Rohindan/DSA-IN-JAVA-/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Rohindan/DSA-IN-JAVA-/tree/master/0268-missing-number) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Rohindan/DSA-IN-JAVA-/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
