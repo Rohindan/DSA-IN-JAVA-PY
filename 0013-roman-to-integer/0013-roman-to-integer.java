@@ -9,7 +9,7 @@ class Solution {
         map.put('D' , 500);
         map.put('M' , 1000);
 
-        int result = 0; //900
+        int result = 0; 
 
         for(int i = 0; i < s.length() -1; i++){
             char ch1 = s.charAt(i);
