@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Rohindan/DSA-IN-JAVA-/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Rohindan/DSA-IN-JAVA-/tree/master/0013-roman-to-integer) |
 | [0128-longest-consecutive-sequence](https://github.com/Rohindan/DSA-IN-JAVA-/tree/master/0128-longest-consecutive-sequence) |
 | [0242-valid-anagram](https://github.com/Rohindan/DSA-IN-JAVA-/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Rohindan/DSA-IN-JAVA-/tree/master/0268-missing-number) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Rohindan/DSA-IN-JAVA-/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Rohindan/DSA-IN-JAVA-/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Rohindan/DSA-IN-JAVA-/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Rohindan/DSA-IN-JAVA-/tree/master/0189-rotate-array) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Rohindan/DSA-IN-JAVA-/tree/master/0005-longest-palindromic-substring) |
+| [0013-roman-to-integer](https://github.com/Rohindan/DSA-IN-JAVA-/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/Rohindan/DSA-IN-JAVA-/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Rohindan/DSA-IN-JAVA-/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Rohindan/DSA-IN-JAVA-/tree/master/0387-first-unique-character-in-a-string) |
