@@ -11,17 +11,17 @@ class Solution {
             }
         }
 
-        int i = 0;
-        int j = ss.length()-1;
-        while(i < j){
-            char ch1 = ss.charAt(i);
-            char ch2 = ss.charAt(j);
+        int left = 0;
+        int right = ss.length()-1;
+        while(left < right){
+            char ch1 = ss.charAt(left);
+            char ch2 = ss.charAt(right);
             if(ch1 != ch2){
                 return false;
             }
             else{
-                i++;
-                j--;
+                left++;
+                right--;
             }
         }
 
