@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Rohindan/DSA-IN-JAVA-/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Rohindan/DSA-IN-JAVA-/tree/master/0136-single-number) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Rohindan/DSA-IN-JAVA-/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rohindan/DSA-IN-JAVA-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Rohindan/DSA-IN-JAVA-/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Rohindan/DSA-IN-JAVA-/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Rohindan/DSA-IN-JAVA-/tree/master/0283-move-zeroes) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rohindan/DSA-IN-JAVA-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Rohindan/DSA-IN-JAVA-/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/Rohindan/DSA-IN-JAVA-/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rohindan/DSA-IN-JAVA-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Rohindan/DSA-IN-JAVA-/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Rohindan/DSA-IN-JAVA-/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Rohindan/DSA-IN-JAVA-/tree/master/0349-intersection-of-two-arrays) |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Rohindan/DSA-IN-JAVA-/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/Rohindan/DSA-IN-JAVA-/tree/master/0074-search-a-2d-matrix) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Rohindan/DSA-IN-JAVA-/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rohindan/DSA-IN-JAVA-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Rohindan/DSA-IN-JAVA-/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Rohindan/DSA-IN-JAVA-/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/Rohindan/DSA-IN-JAVA-/tree/master/0704-binary-search) |
