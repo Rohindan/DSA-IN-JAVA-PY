@@ -4,7 +4,7 @@ class Solution {
         int slow = 0;
         int fast = 0;
         int count = 0;
-        while(slow < nums.length && fast < nums.length){
+        while(fast < nums.length){
             if(nums[fast] != val){
                 nums[slow] = nums[fast];
                 fast++;
