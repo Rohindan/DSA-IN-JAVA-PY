@@ -20,7 +20,6 @@ class Solution {
             }
         }
 
-        temp = head;
-        return temp;
+        return head;
     }
 }
