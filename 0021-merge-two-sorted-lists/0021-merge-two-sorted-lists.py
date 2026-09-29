@@ -23,6 +23,6 @@ class Solution(object):
             
             tail = tail.next
         
-        tail.next = list1 if list1 != None else list2
+        tail.next = list2 if list1 == None else list1
 
         return dummy.next
