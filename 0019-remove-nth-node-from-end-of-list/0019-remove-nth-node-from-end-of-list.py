@@ -10,8 +10,7 @@ class Solution(object):
         :type n: int
         :rtype: Optional[ListNode]
         """
-        slow = head
-        fast = head
+        slow = fast = head
 
         for i in range(n):
             fast = fast.next
@@ -24,7 +23,6 @@ class Solution(object):
             fast = fast.next
         
         slow.next = slow.next.next
-
-        slow = head
-        return slow
+        
+        return head
         
