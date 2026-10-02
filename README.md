@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Rohindan/DSA-IN-JAVA-/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1920-build-array-from-permutation](https://github.com/Rohindan/DSA-IN-JAVA-/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Rohindan/DSA-IN-JAVA-/tree/master/1929-concatenation-of-array) |
+| [3467-transform-array-by-parity](https://github.com/Rohindan/DSA-IN-JAVA-/tree/master/3467-transform-array-by-parity) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Rohindan/DSA-IN-JAVA-/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Two Pointers
 |  |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Rohindan/DSA-IN-JAVA-/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Rohindan/DSA-IN-JAVA-/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Rohindan/DSA-IN-JAVA-/tree/master/0349-intersection-of-two-arrays) |
+| [3467-transform-array-by-parity](https://github.com/Rohindan/DSA-IN-JAVA-/tree/master/3467-transform-array-by-parity) |
 ## Matrix
 |  |
 | ------- |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Rohindan/DSA-IN-JAVA-/tree/master/0387-first-unique-character-in-a-string) |
+| [3467-transform-array-by-parity](https://github.com/Rohindan/DSA-IN-JAVA-/tree/master/3467-transform-array-by-parity) |
 ## Union-Find
 |  |
 | ------- |
