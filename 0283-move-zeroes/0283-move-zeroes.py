@@ -17,4 +17,4 @@ class Solution:
                 fast += 1
                 slow += 1
         
-        return nums
+        
