@@ -45,7 +45,7 @@ class Solution {
         ListNode c1 = head;
         ListNode c2 = newHead;
         boolean result = true;
-        while(c1 != null && c2 != null){
+        while(c2 != null){
             if(c1.val != c2.val){
                 return false;
             }
