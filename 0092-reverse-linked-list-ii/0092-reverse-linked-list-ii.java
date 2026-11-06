@@ -11,10 +11,8 @@
 class Solution {
     public ListNode reverseBetween(ListNode head, int left, int right) {
 
-        if(head == null || head.next == null) return head;
-        if(left == 1 && right == 1){
-            return head;
-        }
+        if(head == null || head.next == null || left == right) return head;
+        
 
         ListNode first = head;
         ListNode last = head;
