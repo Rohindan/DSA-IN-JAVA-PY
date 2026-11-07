@@ -40,7 +40,7 @@ class Solution {
         }
     }
 
-    public static Node extractNode(Node head){
+    public static Node extractDeepCopy(Node head){
         Node dummy = new Node(10);
         Node prev = dummy;
         Node curr = head;
@@ -59,7 +59,6 @@ class Solution {
     public Node copyRandomList(Node head) {
         copyList(head);
         copyRandomPointers(head);
-        return extractNode(head);
-
+        return extractDeepCopy(head);
     }
 }
