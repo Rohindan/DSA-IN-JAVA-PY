@@ -14,36 +14,52 @@ class Node {
 */
 
 class Solution {
-    public Node copyRandomList(Node head) {
-        if(head == null) return head;
 
-        HashMap<Node, Node> map = new HashMap<>();
-
+    public static void copyList(Node head){
         Node curr = head;
-        Node newHead = new Node(0);
-        Node prev = newHead;
+        while(curr != null){
+            Node forw = curr.next;
+
+            Node node = new Node(curr.val);
+            curr.next = node;
+            node.next = forw;
+
+            curr = forw;
+        }
+    }
+
+    public static void copyRandomPointers(Node head){
+        Node curr = head;
+        while(curr != null){
+            Node Random = curr.random;
+            if(Random != null){
+                curr.next.random = Random.next;
+            }
+
+            curr = curr.next.next;
+        }
+    }
+
+    public static Node extractNode(Node head){
+        Node dummy = new Node(10);
+        Node prev = dummy;
+        Node curr = head;
         
         while(curr != null){
-            Node node = new Node(curr.val);
-
-            prev.next = node;
-            map.put(curr, node);
+            prev.next = curr.next;
+            curr.next = curr.next.next;
 
             prev = prev.next;
             curr = curr.next;
         }
 
-        newHead = newHead.next;
-        Node c1 = head;
-        Node c2 = newHead;
-        while(c1 != null){
-            c2.random = (c1.random != null) ? map.get(c1.random) : null;
+        return dummy.next;
+    }
 
-            c1 = c1.next;
-            c2 = c2.next;
-        }
-
-        return newHead;
+    public Node copyRandomList(Node head) {
+        copyList(head);
+        copyRandomPointers(head);
+        return extractNode(head);
 
     }
 }
