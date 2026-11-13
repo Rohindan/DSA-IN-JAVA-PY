@@ -21,8 +21,8 @@ class Solution {
             prev = curr;
             curr = next;
         }
-
-        return prev;
+        head = prev;
+        return head;
     }
 
     public static ListNode midNode(ListNode head){
